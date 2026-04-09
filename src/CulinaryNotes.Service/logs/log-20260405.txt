@@ -1,0 +1,14 @@
+[20:19:59:895 INF ()] Now listening on: http://localhost:5251
+[20:19:59:935 INF ()] Application started. Press Ctrl+C to shut down.
+[20:19:59:937 INF ()] Hosting environment: Development
+[20:19:59:938 INF ()] Content root path: D:\прога\5сем\дотнет\3\CulinaryNotes\src\CulinaryNotes.Service
+[20:20:00:398 INF (75b308ff-279e-4c3a-86e0-934525d8bcaf)] HTTP GET /swagger responded 301 in 19.6877 ms
+[20:20:00:480 INF (07ecc04c-27ab-4532-a181-1d48c1c345df)] HTTP GET /swagger/index.html responded 200 in 65.5096 ms
+[20:20:00:538 INF (f5919d64-a28f-4aa4-94cd-21b079699d49)] HTTP GET /swagger/index.css responded 200 in 0.4645 ms
+[20:20:00:539 INF (2f5f3d12-8605-4b45-852a-58682c6e1441)] HTTP GET /swagger/swagger-ui.css responded 200 in 18.1399 ms
+[20:20:00:541 INF (4f84cfa8-8665-4b9b-ad94-ba94f02e4e20)] HTTP GET /swagger/index.js responded 200 in 0.8489 ms
+[20:20:00:544 INF (679eb1af-0efb-48ac-a68f-1a0f78526cd2)] HTTP GET /swagger/swagger-ui-standalone-preset.js responded 200 in 4.4854 ms
+[20:20:00:563 INF (a7c160c4-3176-45df-8a26-5f94afed1ec9)] HTTP GET /swagger/swagger-ui-bundle.js responded 200 in 18.4790 ms
+[20:20:00:910 INF (de2e8cd8-bf86-4c9a-81ad-f6da4cfb2187)] HTTP GET /swagger/favicon-32x32.png responded 200 in 0.2387 ms
+[20:20:00:956 INF (95da4464-8496-4a89-9623-0bf7f79ee38d)] HTTP GET /swagger/v1/swagger.json responded 200 in 75.1022 ms
+[20:20:38:480 INF ()] Application is shutting down...

@@ -1,0 +1,38 @@
+[04:13:01:186 INF ()] Now listening on: http://localhost:5251
+[04:13:01:218 INF ()] Application started. Press Ctrl+C to shut down.
+[04:13:01:221 INF ()] Hosting environment: Development
+[04:13:01:221 INF ()] Content root path: D:\прога\5сем\дотнет\3\CulinaryNotes\CulinaryNotes.Service
+[09:40:42:339 INF ()] Now listening on: http://localhost:5251
+[09:40:42:381 INF ()] Application started. Press Ctrl+C to shut down.
+[09:40:42:383 INF ()] Hosting environment: Development
+[09:40:42:385 INF ()] Content root path: D:\прога\5сем\дотнет\3\CulinaryNotes\CulinaryNotes.Service
+[09:41:54:875 INF ()] Application is shutting down...
+[09:56:29:221 INF ()] Now listening on: http://localhost:5251
+[09:56:29:261 INF ()] Application started. Press Ctrl+C to shut down.
+[09:56:29:263 INF ()] Hosting environment: Development
+[09:56:29:264 INF ()] Content root path: D:\прога\5сем\дотнет\3\CulinaryNotes\CulinaryNotes.Service
+[09:56:32:809 WRN (ee20d91d-db97-4f0f-b85e-4b7942b7ddb3)] Failed to determine the https port for redirect.
+[09:56:32:818 INF (ee20d91d-db97-4f0f-b85e-4b7942b7ddb3)] HTTP GET /culinarynotes responded 404 in 33.3179 ms
+[09:56:55:094 INF ()] Application is shutting down...
+[10:04:41:829 INF ()] Now listening on: http://localhost:5251
+[10:04:41:857 INF ()] Application started. Press Ctrl+C to shut down.
+[10:04:41:859 INF ()] Hosting environment: Development
+[10:04:41:861 INF ()] Content root path: D:\прога\5сем\дотнет\3\CulinaryNotes\CulinaryNotes.Service
+[10:04:43:697 WRN (2d05ea73-d086-4a60-9e94-1b7b789afd07)] Failed to determine the https port for redirect.
+[10:04:43:703 INF (2d05ea73-d086-4a60-9e94-1b7b789afd07)] HTTP GET /culinarynotes/ responded 404 in 16.2913 ms
+[10:04:50:699 INF ()] Application is shutting down...
+[10:17:13:266 INF ()] Now listening on: http://localhost:5251
+[10:17:13:293 INF ()] Application started. Press Ctrl+C to shut down.
+[10:17:13:294 INF ()] Hosting environment: Development
+[10:17:13:295 INF ()] Content root path: D:\прога\5сем\дотнет\3\CulinaryNotes\CulinaryNotes.Service
+[10:17:13:697 INF (1f548e31-c395-43cf-b1ea-ced211ff5849)] HTTP GET /swagger responded 301 in 15.1295 ms
+[10:17:13:768 INF (a9e50d3c-b124-47fb-bdcd-69ca361661af)] HTTP GET /swagger/index.html responded 200 in 59.9887 ms
+[10:17:13:801 INF (b0236815-138d-437c-8839-da564069b858)] HTTP GET /swagger/index.js responded 200 in 1.1221 ms
+[10:17:13:805 INF (0fdd1511-fa44-4549-b5b6-1e7873dc1243)] HTTP GET /swagger/index.css responded 200 in 8.5079 ms
+[10:17:13:815 INF (a0fa6e3f-3741-4595-b60d-376ba3b3aa4a)] HTTP GET /swagger/swagger-ui.css responded 200 in 18.9991 ms
+[10:17:13:816 INF (eb35f3b7-fdf2-4a5d-afc0-a2651b11e144)] HTTP GET /swagger/swagger-ui-standalone-preset.js responded 200 in 17.4924 ms
+[10:17:13:827 INF (82c8786a-8b91-4489-b558-b228dcb15cbc)] HTTP GET /swagger/swagger-ui-bundle.js responded 200 in 28.6798 ms
+[10:17:14:071 INF (755ea170-0186-4684-9c6d-8e2837459fe7)] HTTP GET /swagger/favicon-32x32.png responded 200 in 0.3758 ms
+[10:17:14:133 INF (ceab802b-6315-417e-ad32-39f88f09fa61)] HTTP GET /swagger/v1/swagger.json responded 200 in 82.7772 ms
+[10:17:16:573 INF (ca4bbae7-5d6b-4d12-97bf-673041f2bc68)] HTTP GET /swagger/v1/swagger.json responded 200 in 1.1316 ms
+[10:17:28:435 INF ()] Application is shutting down...

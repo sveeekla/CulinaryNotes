@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CulinaryNotes.Service", "src\CulinaryNotes.Service\CulinaryNotes.Service.csproj", "{2BA127DD-F30C-4442-BAF8-08FCC6705DA3}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{C4AABCE6-BDB2-4C49-BCB0-8410881AF5D4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CulinaryNotes.BL", "src\CulinaryNotes.BL\CulinaryNotes.BL.csproj", "{3875E9DE-759B-4E66-8B63-2EECB1D22B2F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CulinaryNotes.DataAccess", "src\CulinaryNotes.DataAccess\CulinaryNotes.DataAccess.csproj", "{FE0B7AD5-5516-4D2A-BEBE-72B22D6BCD33}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Tests", "Tests", "{63470EEB-14AD-42A5-88D2-44236D23C6D5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2BA127DD-F30C-4442-BAF8-08FCC6705DA3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2BA127DD-F30C-4442-BAF8-08FCC6705DA3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2BA127DD-F30C-4442-BAF8-08FCC6705DA3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2BA127DD-F30C-4442-BAF8-08FCC6705DA3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3875E9DE-759B-4E66-8B63-2EECB1D22B2F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3875E9DE-759B-4E66-8B63-2EECB1D22B2F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3875E9DE-759B-4E66-8B63-2EECB1D22B2F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3875E9DE-759B-4E66-8B63-2EECB1D22B2F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FE0B7AD5-5516-4D2A-BEBE-72B22D6BCD33}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FE0B7AD5-5516-4D2A-BEBE-72B22D6BCD33}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FE0B7AD5-5516-4D2A-BEBE-72B22D6BCD33}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FE0B7AD5-5516-4D2A-BEBE-72B22D6BCD33}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{2BA127DD-F30C-4442-BAF8-08FCC6705DA3} = {C4AABCE6-BDB2-4C49-BCB0-8410881AF5D4}
+		{3875E9DE-759B-4E66-8B63-2EECB1D22B2F} = {C4AABCE6-BDB2-4C49-BCB0-8410881AF5D4}
+		{FE0B7AD5-5516-4D2A-BEBE-72B22D6BCD33} = {C4AABCE6-BDB2-4C49-BCB0-8410881AF5D4}
+		{63470EEB-14AD-42A5-88D2-44236D23C6D5} = {C4AABCE6-BDB2-4C49-BCB0-8410881AF5D4}
+	EndGlobalSection
+EndGlobal

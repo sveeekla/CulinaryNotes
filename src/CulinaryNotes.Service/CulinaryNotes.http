@@ -1,0 +1,6 @@
+@CulinaryNotes_HostAddress = http://localhost:5251
+
+GET {{CulinaryNotes_HostAddress}}/culinarynotes/
+Accept: application/json
+
+###
