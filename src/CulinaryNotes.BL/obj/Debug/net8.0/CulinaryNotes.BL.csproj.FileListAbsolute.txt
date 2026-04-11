@@ -26,3 +26,7 @@ D:\прога\5сем\дотнет\3\CulinaryNotes\src\CulinaryNotes.BL\obj\Debu
 D:\прога\5сем\дотнет\3\CulinaryNotes\src\CulinaryNotes.BL\obj\Debug\net8.0\CulinaryNotes.BL.pdb
 D:\прога\5сем\дотнет\3\CulinaryNotes\src\CulinaryNotes.BL\obj\Debug\net8.0\CulinaryNotes.BL.genruntimeconfig.cache
 D:\прога\5сем\дотнет\3\CulinaryNotes\src\CulinaryNotes.BL\obj\Debug\net8.0\ref\CulinaryNotes.BL.dll
+D:\прога\5сем\дотнет\3\CulinaryNotes\src\CulinaryNotes.BL\bin\Debug\net8.0\CulinaryNotes.DataAccess.dll
+D:\прога\5сем\дотнет\3\CulinaryNotes\src\CulinaryNotes.BL\bin\Debug\net8.0\CulinaryNotes.DataAccess.pdb
+D:\прога\5сем\дотнет\3\CulinaryNotes\src\CulinaryNotes.BL\obj\Debug\net8.0\CulinaryNotes.BL.sourcelink.json
+D:\прога\5сем\дотнет\3\CulinaryNotes\src\CulinaryNotes.BL\obj\Debug\net8.0\Culinary.4E85BB6A.Up2Date

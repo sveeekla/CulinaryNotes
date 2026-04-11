@@ -26,3 +26,4 @@ D:\прога\5сем\дотнет\3\CulinaryNotes\src\CulinaryNotes.DataAccess\
 D:\прога\5сем\дотнет\3\CulinaryNotes\src\CulinaryNotes.DataAccess\obj\Debug\net8.0\CulinaryNotes.DataAccess.pdb
 D:\прога\5сем\дотнет\3\CulinaryNotes\src\CulinaryNotes.DataAccess\obj\Debug\net8.0\CulinaryNotes.DataAccess.genruntimeconfig.cache
 D:\прога\5сем\дотнет\3\CulinaryNotes\src\CulinaryNotes.DataAccess\obj\Debug\net8.0\ref\CulinaryNotes.DataAccess.dll
+D:\прога\5сем\дотнет\3\CulinaryNotes\src\CulinaryNotes.DataAccess\obj\Debug\net8.0\CulinaryNotes.DataAccess.sourcelink.json
